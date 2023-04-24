@@ -1,0 +1,64 @@
+
+.container {
+	padding-bottom: 120rpx;
+}
+.header {
+	padding: 80rpx 90rpx 60rpx 90rpx;
+	box-sizing: border-box;
+}
+.title {
+	font-size: 34rpx;
+	color: #333;
+	font-weight: 500;
+}
+.sub-title {
+	font-size: 24rpx;
+	color: #7a7a7a;
+	padding-top: 18rpx;
+}
+.tui-list-item {
+	padding: 40rpx 30rpx;
+	display: flex;
+	align-items: item;
+}
+.tui-title {
+	width: 100%;
+	padding: 50rpx 30rpx 30rpx;
+	box-sizing: border-box;
+	font-size: 32rpx;
+	font-weight: bold;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+.tui-switch {
+	-webkit-transform: scale(0.8);
+	        transform: scale(0.8);
+	-webkit-transform-origin: 100% center;
+	        transform-origin: 100% center;
+}
+.tui-custom-btn_box {
+	width: 140px;
+	height: 100%;
+	padding: 0 20rpx;
+	box-sizing: border-box;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-color: #fafafa;
+}
+.tui-custom-btn {
+	width: 100rpx;
+	height: 100rpx;
+	border-radius: 50%;
+	background-color: #fff;
+	color: #333;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-shrink: 0;
+}
+.tui-custom-mr {
+	margin-right: 20rpx;
+}
+

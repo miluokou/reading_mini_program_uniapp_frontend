@@ -1,0 +1,21 @@
+
+.container {
+	padding: 20rpx 30rpx 40rpx 30rpx;
+	box-sizing: border-box;
+}
+.tui-title {
+	padding: 30rpx 0;
+	font-size: 32rpx;
+	color: #333;
+	font-weight: bold;
+}
+.tui-btn-box {
+	margin-bottom: 26rpx;
+}
+.tui-flex-box {
+	width: 100%;
+	display: flex;
+	align-items: center;
+	flex-wrap: wrap;
+}
+

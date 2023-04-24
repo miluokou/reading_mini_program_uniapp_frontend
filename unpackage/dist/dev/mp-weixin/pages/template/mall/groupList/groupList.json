@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "拼团专区",
+  "navigationBarBackgroundColor": "#fff",
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "tui-icon": "/components/thorui/tui-icon/tui-icon",
+    "tui-drawer": "/components/thorui/tui-drawer/tui-drawer",
+    "tui-button": "/components/thorui/tui-button/tui-button"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "navigationBarBackgroundColor": "#fff",
+  "navigationBarTextStyle": "black",
+  "backgroundColorTop": "#F7F7F7",
+  "backgroundColorBottom": "#F7F7F7",
+  "navigationBarTitleText": "ThorUI商城",
+  "enablePullDownRefresh": true,
+  "onReachBottomDistance": 50,
+  "usingComponents": {
+    "tui-icon": "/components/thorui/tui-icon/tui-icon",
+    "tui-countdown": "/components/thorui/tui-countdown/tui-countdown",
+    "tui-loadmore": "/components/thorui/tui-loadmore/tui-loadmore"
+  }
+}

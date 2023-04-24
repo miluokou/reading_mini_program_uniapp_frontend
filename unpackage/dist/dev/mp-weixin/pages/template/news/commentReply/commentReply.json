@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "回复",
+  "backgroundColorTop": "#fff",
+  "backgroundColorBottom": "#fff",
+  "enablePullDownRefresh": true,
+  "onReachBottomDistance": 0,
+  "usingComponents": {}
+}

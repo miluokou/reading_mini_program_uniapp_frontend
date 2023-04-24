@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "发票详情",
+  "navigationBarBackgroundColor": "#fff",
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "tui-button": "/components/thorui/tui-button/tui-button",
+    "tui-modal": "/components/thorui/tui-modal/tui-modal"
+  }
+}

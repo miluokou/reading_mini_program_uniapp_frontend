@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#FFFFFF",
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "气泡弹框",
+  "usingComponents": {
+    "t-rt-popup": "/components/views/t-rt-popup/t-rt-popup"
+  }
+}

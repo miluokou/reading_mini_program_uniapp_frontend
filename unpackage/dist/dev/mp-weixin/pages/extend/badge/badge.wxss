@@ -1,0 +1,25 @@
+
+.container.data-v-120d91fb {
+	padding: 20rpx 30rpx 120rpx 30rpx;
+	box-sizing: border-box;
+}
+.tui-title.data-v-120d91fb {
+	padding: 30rpx 0;
+	font-size: 32rpx;
+	color: #333;
+	font-weight: bold;
+}
+.tui-flex-box.data-v-120d91fb {
+	width: 100%;
+	display: flex;
+	align-items: center;
+	padding-bottom: 30rpx;
+}
+.tui-badge-box.data-v-120d91fb {
+	padding-right: 40rpx;
+}
+.tui-badge-item.data-v-120d91fb {
+	position: relative;
+	margin-right: 80rpx;
+}
+

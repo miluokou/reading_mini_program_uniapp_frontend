@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#FFFFFF",
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "富文本解析",
+  "usingComponents": {
+    "u-parse": "/components/uni/uParse/src/wxParse"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "navigationBarBackgroundColor": "#FFFFFF",
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "吸顶容器",
+  "onReachBottomDistance": 50,
+  "usingComponents": {}
+}

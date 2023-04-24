@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#fff",
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "技术交流群",
+  "usingComponents": {
+    "t-chat-bar": "/components/views/t-chat-bar/t-chat-bar"
+  }
+}
