@@ -1,4 +1,6 @@
 {
   "backgroundColorTop": "#5677FC",
-  "usingComponents": {}
+  "usingComponents": {
+    "tui-icon": "/components/thorui/tui-icon/tui-icon"
+  }
 }

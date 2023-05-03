@@ -2,5 +2,8 @@
   "navigationBarBackgroundColor": "#FFFFFF",
   "navigationBarTextStyle": "black",
   "navigationBarTitleText": "基础组件",
-  "usingComponents": {}
+  "usingComponents": {
+    "tui-grid": "/components/thorui/tui-grid/tui-grid",
+    "tui-grid-item": "/components/thorui/tui-grid-item/tui-grid-item"
+  }
 }

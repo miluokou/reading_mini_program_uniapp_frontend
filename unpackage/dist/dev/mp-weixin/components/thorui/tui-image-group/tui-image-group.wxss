@@ -1,0 +1,20 @@
+
+.tui-image-container.data-v-6b499318 {
+	display: inline-flex;
+	align-items: center;
+}
+.tui-image-direction.data-v-6b499318 {
+	flex-direction: column;
+}
+.tui-image__warp.data-v-6b499318 {
+	flex-wrap: wrap;
+}
+.tui-image__itembox.data-v-6b499318 {
+	position: relative;
+}
+.tui-image-item.data-v-6b499318 {
+	border-style: solid;
+	flex-shrink: 0;
+	display: block;
+}
+

@@ -2,5 +2,7 @@
   "navigationBarBackgroundColor": "#FFFFFF",
   "navigationBarTextStyle": "black",
   "navigationBarTitleText": "吸顶容器wxs",
-  "usingComponents": {}
+  "usingComponents": {
+    "tui-sticky-wxs": "/components/thorui/tui-sticky-wxs/tui-sticky-wxs"
+  }
 }

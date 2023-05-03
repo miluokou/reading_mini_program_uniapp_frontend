@@ -2,5 +2,7 @@
   "navigationBarBackgroundColor": "#FFFFFF",
   "navigationBarTextStyle": "black",
   "navigationBarTitleText": "Tag",
-  "usingComponents": {}
+  "usingComponents": {
+    "tui-tag": "/components/thorui/tui-tag/tui-tag"
+  }
 }

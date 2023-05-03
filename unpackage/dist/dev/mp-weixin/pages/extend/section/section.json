@@ -1,5 +1,7 @@
 {
   "navigationBarTitleText": "标题栏",
   "enablePullDownRefresh": false,
-  "usingComponents": {}
+  "usingComponents": {
+    "tui-section": "/components/thorui/tui-section/tui-section"
+  }
 }

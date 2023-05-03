@@ -2,5 +2,8 @@
   "navigationBarTitleText": "日期时间选择",
   "navigationBarBackgroundColor": "#fff",
   "navigationBarTextStyle": "black",
-  "usingComponents": {}
+  "usingComponents": {
+    "tui-button": "/components/thorui/tui-button/tui-button",
+    "tui-datetime": "/components/thorui/tui-datetime/tui-datetime"
+  }
 }

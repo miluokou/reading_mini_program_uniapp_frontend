@@ -2,5 +2,7 @@
   "navigationBarBackgroundColor": "#fff",
   "navigationBarTextStyle": "black",
   "navigationBarTitleText": "联系人 ",
-  "usingComponents": {}
+  "usingComponents": {
+    "tui-sticky": "/components/thorui/tui-sticky/tui-sticky"
+  }
 }

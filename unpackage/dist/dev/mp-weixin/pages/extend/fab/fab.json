@@ -2,5 +2,8 @@
   "navigationBarTitleText": "悬浮按钮",
   "navigationBarBackgroundColor": "#fff",
   "navigationBarTextStyle": "black",
-  "usingComponents": {}
+  "usingComponents": {
+    "tui-button": "/components/thorui/tui-button/tui-button",
+    "tui-fab": "/components/thorui/tui-fab/tui-fab"
+  }
 }

@@ -1,0 +1,12 @@
+
+.tui-circular-container.data-v-565a4cf4,
+.tui-circular-default.data-v-565a4cf4 {
+	position: relative;
+}
+.tui-circular-progress.data-v-565a4cf4 {
+	position: absolute;
+	left: 0;
+	top: 0;
+	z-index: 10;
+}
+

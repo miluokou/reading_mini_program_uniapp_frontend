@@ -3,5 +3,7 @@
   "navigationBarTextStyle": "black",
   "navigationStyle": "custom",
   "disableScroll": true,
-  "usingComponents": {}
+  "usingComponents": {
+    "tui-image-cropper": "/components/thorui/tui-image-cropper/tui-image-cropper"
+  }
 }

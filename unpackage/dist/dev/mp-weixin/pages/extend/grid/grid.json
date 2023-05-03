@@ -2,5 +2,9 @@
   "navigationBarBackgroundColor": "#FFFFFF",
   "navigationBarTextStyle": "black",
   "navigationBarTitleText": "Grid",
-  "usingComponents": {}
+  "usingComponents": {
+    "tui-grid": "/components/thorui/tui-grid/tui-grid",
+    "tui-grid-item": "/components/thorui/tui-grid-item/tui-grid-item",
+    "tui-icon": "/components/thorui/tui-icon/tui-icon"
+  }
 }

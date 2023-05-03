@@ -1,0 +1,19 @@
+
+.tui-wing__blank.data-v-0f9de266 {
+
+	width: 100%;
+	box-sizing: border-box;
+}
+.tui-wingblank__hidden.data-v-0f9de266 {
+	overflow: hidden;
+}
+.tui-wingblank__small.data-v-0f9de266 {
+	padding: 0 10rpx;
+}
+.tui-wingblank__default.data-v-0f9de266 {
+	padding: 0 20rpx;
+}
+.tui-wingblank__large.data-v-0f9de266 {
+	padding: 0 30rpx;
+}
+

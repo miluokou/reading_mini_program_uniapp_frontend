@@ -1,4 +1,7 @@
 {
   "navigationBarTitleText": "extend",
-  "usingComponents": {}
+  "usingComponents": {
+    "tui-tag": "/components/thorui/tui-tag/tui-tag",
+    "tui-icon": "/components/thorui/tui-icon/tui-icon"
+  }
 }

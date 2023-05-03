@@ -2,5 +2,7 @@
   "navigationBarTitleText": "No Data",
   "navigationBarBackgroundColor": "#fff",
   "navigationBarTextStyle": "black",
-  "usingComponents": {}
+  "usingComponents": {
+    "tui-no-data": "/components/thorui/tui-no-data/tui-no-data"
+  }
 }

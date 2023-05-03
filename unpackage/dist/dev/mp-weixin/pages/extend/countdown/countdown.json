@@ -2,5 +2,7 @@
   "navigationBarBackgroundColor": "#fff",
   "navigationBarTextStyle": "black",
   "navigationBarTitleText": "倒计时",
-  "usingComponents": {}
+  "usingComponents": {
+    "tui-countdown": "/components/thorui/tui-countdown/tui-countdown"
+  }
 }

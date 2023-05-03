@@ -1,5 +1,12 @@
 {
   "pages": [
+    "pages/news/index/index",
+    "pages/news/search/search",
+    "pages/news/newsDetail/newsDetail",
+    "pages/news/comment/comment",
+    "pages/news/commentList/commentList",
+    "pages/news/commentReply/commentReply",
+    "pages/news/newsVideo/newsVideo",
     "pages/tabbar/index/index",
     "pages/tabbar/extend/extend",
     "pages/tabbar/my/my",
@@ -112,7 +119,6 @@
         "login/login/login",
         "login/reg/reg",
         "login/forgetPwd/forgetPwd",
-        "news/index/index",
         "news/search/search",
         "news/newsDetail/newsDetail",
         "news/comment/comment",

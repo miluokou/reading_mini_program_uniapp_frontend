@@ -1,0 +1,1 @@
+<view data-event-opts="{{[['tap',[['handleClick',['$event']]]]]}}" class="{{['tui-white__space','data-v-94b80c7c','tui-whitespace__'+(getHeight?'':size)]}}" style="{{(getStyles)}}" bindtap="__e"><slot></slot></view>

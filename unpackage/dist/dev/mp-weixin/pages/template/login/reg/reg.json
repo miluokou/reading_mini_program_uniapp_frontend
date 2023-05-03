@@ -2,5 +2,9 @@
   "navigationBarTitleText": "",
   "navigationBarBackgroundColor": "#ffffff",
   "navigationBarTextStyle": "black",
-  "usingComponents": {}
+  "usingComponents": {
+    "tui-list-cell": "/components/thorui/tui-list-cell/tui-list-cell",
+    "tui-icon": "/components/thorui/tui-icon/tui-icon",
+    "tui-button": "/components/thorui/tui-button/tui-button"
+  }
 }

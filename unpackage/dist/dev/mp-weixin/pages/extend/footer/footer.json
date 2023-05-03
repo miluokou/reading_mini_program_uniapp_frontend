@@ -2,5 +2,7 @@
   "navigationBarBackgroundColor": "#FFFFFF",
   "navigationBarTextStyle": "black",
   "navigationBarTitleText": "Footer",
-  "usingComponents": {}
+  "usingComponents": {
+    "tui-footer": "/components/thorui/tui-footer/tui-footer"
+  }
 }

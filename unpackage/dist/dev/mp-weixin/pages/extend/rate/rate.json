@@ -2,5 +2,7 @@
   "navigationBarBackgroundColor": "#fff",
   "navigationBarTextStyle": "black",
   "navigationBarTitleText": "Rate评分",
-  "usingComponents": {}
+  "usingComponents": {
+    "tui-rate": "/components/thorui/tui-rate/tui-rate"
+  }
 }

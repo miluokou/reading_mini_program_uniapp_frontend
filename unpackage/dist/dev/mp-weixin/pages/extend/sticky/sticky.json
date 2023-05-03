@@ -2,5 +2,7 @@
   "navigationBarBackgroundColor": "#FFFFFF",
   "navigationBarTextStyle": "black",
   "navigationBarTitleText": "吸顶容器",
-  "usingComponents": {}
+  "usingComponents": {
+    "tui-sticky": "/components/thorui/tui-sticky/tui-sticky"
+  }
 }

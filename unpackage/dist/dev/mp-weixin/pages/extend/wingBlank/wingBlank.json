@@ -1,5 +1,8 @@
 {
   "navigationBarTitleText": "左右留白",
   "enablePullDownRefresh": false,
-  "usingComponents": {}
+  "usingComponents": {
+    "tui-section": "/components/thorui/tui-section/tui-section",
+    "tui-wing-blank": "/components/thorui/tui-wing-blank/tui-wing-blank"
+  }
 }

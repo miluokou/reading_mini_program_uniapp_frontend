@@ -3,5 +3,8 @@
   "navigationBarTextStyle": "black",
   "navigationBarTitleText": "吸顶容器",
   "onReachBottomDistance": 50,
-  "usingComponents": {}
+  "usingComponents": {
+    "tui-sticky": "/components/thorui/tui-sticky/tui-sticky",
+    "tui-loadmore": "/components/thorui/tui-loadmore/tui-loadmore"
+  }
 }

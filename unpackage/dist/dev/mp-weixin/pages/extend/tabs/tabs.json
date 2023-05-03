@@ -2,5 +2,7 @@
   "navigationBarTitleText": "tabs标签页",
   "navigationBarBackgroundColor": "#fff",
   "navigationBarTextStyle": "black",
-  "usingComponents": {}
+  "usingComponents": {
+    "tui-tabs": "/components/thorui/tui-tabs/tui-tabs"
+  }
 }

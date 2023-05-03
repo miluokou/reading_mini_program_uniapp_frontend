@@ -2,5 +2,7 @@
   "navigationBarBackgroundColor": "#FFFFFF",
   "navigationBarTextStyle": "black",
   "navigationBarTitleText": "图片组合",
-  "usingComponents": {}
+  "usingComponents": {
+    "tui-image-group": "/components/thorui/tui-image-group/tui-image-group"
+  }
 }

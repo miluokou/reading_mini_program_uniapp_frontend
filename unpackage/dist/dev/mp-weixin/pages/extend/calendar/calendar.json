@@ -2,5 +2,8 @@
   "navigationBarBackgroundColor": "#FFFFFF",
   "navigationBarTextStyle": "black",
   "navigationBarTitleText": "日历",
-  "usingComponents": {}
+  "usingComponents": {
+    "tui-button": "/components/thorui/tui-button/tui-button",
+    "tui-calendar": "/components/thorui/tui-calendar/tui-calendar"
+  }
 }

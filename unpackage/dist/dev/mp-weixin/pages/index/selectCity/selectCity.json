@@ -1,5 +1,7 @@
 {
   "navigationBarTitleText": "城市选择",
   "disableScroll": true,
-  "usingComponents": {}
+  "usingComponents": {
+    "tui-icon": "/components/thorui/tui-icon/tui-icon"
+  }
 }

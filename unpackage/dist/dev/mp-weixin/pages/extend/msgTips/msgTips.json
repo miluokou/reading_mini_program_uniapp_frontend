@@ -2,5 +2,7 @@
   "navigationBarBackgroundColor": "#FFFFFF",
   "navigationBarTextStyle": "black",
   "navigationBarTitleText": "消息提示",
-  "usingComponents": {}
+  "usingComponents": {
+    "tui-tips": "/components/thorui/tui-tips/tui-tips"
+  }
 }

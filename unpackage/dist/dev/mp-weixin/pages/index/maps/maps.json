@@ -1,5 +1,7 @@
 {
   "navigationBarTitleText": "选择位置",
   "disableScroll": true,
-  "usingComponents": {}
+  "usingComponents": {
+    "tui-loadmore": "/components/thorui/tui-loadmore/tui-loadmore"
+  }
 }

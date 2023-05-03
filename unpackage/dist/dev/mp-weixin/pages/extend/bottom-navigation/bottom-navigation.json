@@ -4,5 +4,7 @@
   "navigationBarTitleText": "底部导航菜单",
   "backgroundColorTop": "#F5F5F5",
   "backgroundColorBottom": "#F5F5F5",
-  "usingComponents": {}
+  "usingComponents": {
+    "tui-bottom-navigation": "/components/thorui/tui-bottom-navigation/tui-bottom-navigation"
+  }
 }

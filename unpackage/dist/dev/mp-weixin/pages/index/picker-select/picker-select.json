@@ -2,5 +2,7 @@
   "navigationBarTitleText": "picker 联动选择",
   "navigationBarBackgroundColor": "#FFFFFF",
   "navigationBarTextStyle": "black",
-  "usingComponents": {}
+  "usingComponents": {
+    "tui-button": "/components/thorui/tui-button/tui-button"
+  }
 }

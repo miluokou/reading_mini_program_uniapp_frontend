@@ -1,0 +1,16 @@
+
+.tui-white__space.data-v-94b80c7c {
+
+	width: 100%;
+	box-sizing: border-box;
+}
+.tui-whitespace__small.data-v-94b80c7c {
+	height: 10rpx
+}
+.tui-whitespace__default.data-v-94b80c7c {
+	height: 20rpx
+}
+.tui-whitespace__large.data-v-94b80c7c {
+	height: 30rpx
+}
+

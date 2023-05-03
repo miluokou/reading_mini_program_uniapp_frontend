@@ -1,0 +1,1 @@
+<view data-event-opts="{{[['tap',[['handleClick',['$event']]]]]}}" class="{{['tui-wing__blank','data-v-0f9de266',radius?'tui-wingblank__hidden':'',getPadding?'':'tui-wingblank__'+size]}}" style="{{(getStyles)}}" bindtap="__e"><slot></slot></view>

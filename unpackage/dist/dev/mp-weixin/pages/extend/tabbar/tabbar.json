@@ -2,5 +2,7 @@
   "navigationBarTitleText": "Tabbar",
   "navigationBarBackgroundColor": "#fff",
   "navigationBarTextStyle": "black",
-  "usingComponents": {}
+  "usingComponents": {
+    "tui-tabbar": "/components/thorui/tui-tabbar/tui-tabbar"
+  }
 }
